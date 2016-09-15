@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 jeremy
-=======
 Pankaj Bhootra
->>>>>>> 046a5f35a22ef671f273f89719bdabbe2174eb14
